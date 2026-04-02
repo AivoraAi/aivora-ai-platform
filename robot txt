@@ -1,8 +1,7 @@
+# robots.txt — Aivoraai
+# https://aivoraai.github.io/aivora.ai/
+
 User-agent: *
 Allow: /
 
-# Don't index verification file
-Disallow: /google7061fb8c95f025f1.html
-
-# Sitemap location
 Sitemap: https://aivoraai.github.io/aivora.ai/sitemap.xml
